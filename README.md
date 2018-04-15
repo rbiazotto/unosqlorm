@@ -2,7 +2,7 @@
 A micro NOSQL ORM python library
 
 
-Support Expectative...
+Support Expectative:
 
 DynamoDB
 MongoDB
