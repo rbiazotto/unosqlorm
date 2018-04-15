@@ -4,5 +4,5 @@ A micro NOSQL ORM python library
 
 Support Expectative:
 
-DynamoDB
+DynamoDB<br>
 MongoDB
